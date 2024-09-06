@@ -36,7 +36,7 @@
 
 ## 📫 Contact
 <h4>
-  <a href="joks0702@gachon.ac.kr" target="_blank">
+  <a href="mailto:joks0702@gachon.ac.kr" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     <a href="https://www.instagram.com/yongjun_0702" target="_blank">
