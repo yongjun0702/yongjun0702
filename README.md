@@ -3,9 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=40&duration=2000&color=6FA8DC&center=false&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hello+I'm+YongJun+Jo+👋)](https://git.io/typing-svg)
 
 
-<!--## My activities at a glance
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=kanade012&count_private=true&show_icons=true)](https://github.com/kanade012)
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongjun0702&layout=compact)](https://github.com/yongjun0702)
+
 
 <br>
 
